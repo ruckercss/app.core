@@ -1,0 +1,20 @@
+{
+  "name": "ruckercss-app.core",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ruckercss/app.core",
+  "authors": [
+    "DiAngelo (diangelo@bitvice.ro)"
+  ],
+  "description": "RuckerCSS bootstrap package",
+  "main": "_app.core.rkr.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "core",
+    "bootstrap",
+    "main",
+    "ruckercss"
+  ],
+  "license": "MIT"
+}
