@@ -1,2 +1,4 @@
 # app.core
-RuckerCSS bootstrap point
+## RuckerCSS bootstrap point
+
+Uncomment lines that imports the packages you need
