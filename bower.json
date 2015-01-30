@@ -16,5 +16,10 @@
     "main",
     "ruckercss"
   ],
-  "license": "MIT"
+  ignore: [
+    "LICENSE", 
+    "*.md", 
+    "*.json"
+  ],
+  "license": "Apache 2"
 }
