@@ -1,6 +1,6 @@
 {
   "name": "ruckercss-app.core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/ruckercss/app.core",
   "authors": [
     "DiAngelo (diangelo@bitvice.ro)"
@@ -17,8 +17,8 @@
     "ruckercss"
   ],
   "ignore": [
-    "LICENSE", 
-    "*.md", 
+    "LICENSE",
+    "*.md",
     "*.json"
   ],
   "license": "Apache 2"
