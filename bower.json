@@ -16,7 +16,7 @@
     "main",
     "ruckercss"
   ],
-  ignore: [
+  "ignore": [
     "LICENSE", 
     "*.md", 
     "*.json"
